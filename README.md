@@ -17,7 +17,7 @@ Some of the work I did as a researcher include:
 ## :computer: Skills
 <b>Programs:</b> MATLAB | Microsoft Office (Excel, PowerPoint, Word) | GraphPad Prism | SQL | PowerBI <br/>
 <b>Statistical analysis: </b> Descriptive statistics | Hypothesis testing | Regression analysis | Correlations analysis <br/>
-<b> Professional </b>: Communication (verbal and written) | data analytics and visualisation | Critical thinking | Problem-sovling | Time management
+<b> Professional </b>: Communication (verbal and written) | data analytics and visualisation | Critical thinking | Problem-solving | Time management
 
 
 
