@@ -16,7 +16,7 @@ Some of the work I did as a researcher include:
 + Collaborated with multidisciplinary teams.
 
 ## :computer: Skills
-<b>Programs:</b> MATLAB | Microsoft Office (Excel, PowerPoint, Word) | GraphPad Prism | SQL | PowerBI <br/>
+<b>Programs:</b> MATLAB | Microsoft Office (Excel, PowerPoint, Word) | GraphPad Prism | SQL <br/>
 <b>Statistical analysis: </b> Descriptive statistics | Hypothesis testing | Regression analysis | Correlations analysis <br/>
 <b> Professional </b>: Communication (verbal and written) | data analytics and visualisation | Critical thinking | Problem-solving | Time management
 
